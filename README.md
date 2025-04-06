@@ -100,9 +100,7 @@ This will output the accuracy and F1 score of the model on the test dataset.
 └── requirements.txt      # Python dependencies
 ```
 
-## Pretrained Models
 
-Pretrained models can be found in the `ckpts/` directory. You can load these models for fine-tuning on your own datasets or for making predictions.
 
 ## License
 
